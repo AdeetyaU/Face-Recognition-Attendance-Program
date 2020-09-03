@@ -36,6 +36,8 @@ Software Used -
 ---------------------------
 #### 1. Install PyCharm 2020.2 from here : https://www.jetbrains.com/pycharm/download/
 
+![venv](https://github.com/AdeetyaU/Face-Recognition-Attendance-Program/blob/master/README%20Images/pycharm.png)
+
 #### 2. After installation:
 ---------------------------
   Download or Clone the project:
@@ -52,10 +54,12 @@ Software Used -
 python -m venv env
 ```
 Then activate the enviroment using the code below for windows.
+
 ```
 .\env\Scripts\activate
 ```
-.\env\Scripts\activate
+![venv](https://github.com/AdeetyaU/Face-Recognition-Attendance-Program/blob/master/README%20Images/VENV.gif)
+
 [ PS: If you have any issues with your venv, check this article then: (https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) ]
 
 #### 4. Installing the packages
@@ -66,7 +70,7 @@ After creating the enviroment on your project let's install the necessary packag
 
 After creating the enviroment on your project let's install the necessary packages. 
 
-![pip install demo](https://github.com/kmhmubin/Face-Recognition-Attendance-System/blob/master/Document%20Metarial/Project%20demo%20images/pip%20install_edit_0.gif)
+![pip install demo](https://github.com/AdeetyaU/Face-Recognition-Attendance-Program/blob/master/README%20Images/Pip%20install.gif)
 
 To install those package open the terminal or command line and paste the code from below
 
@@ -95,4 +99,6 @@ After creating the enviroment and installing the packages, open the terminal to 
 ```
 py main.py
 ```
+![main py](https://github.com/AdeetyaU/Face-Recognition-Attendance-Program/blob/master/README%20Images/pymain.gif)
+
 ### And your program is good to go!
