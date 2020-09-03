@@ -35,7 +35,7 @@ Software Used -
 
 ## How to run :question:
 ---------------------------
-#### 1. Install PyCharm 2020.2 from here : https://www.jetbrains.com/pycharm/download/
+#### 1. Install PyCharm 2020.2 from [here](https://www.jetbrains.com/pycharm/download/) : https://www.jetbrains.com/pycharm/download/
 
 ![venv](https://github.com/AdeetyaU/Face-Recognition-Attendance-Program/blob/master/README%20Images/pycharm.png)
 
