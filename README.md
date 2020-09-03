@@ -41,12 +41,14 @@ Software Used -
 
 #### 2. After installation:
 ---------------------------
-  Download or Clone the project:
-  First Download or Clone the Project on Your Local Machine.To download the project from github press Download Zip
+  ##### Download or Clone the project:
+  
+  First Download or Clone the Project on Your Local Machine.To download the project from github press **_Download Zip_**
   
   ![save file](https://github.com/AdeetyaU/Face-Recognition-Attendance-Program/blob/master/README%20Images/git%20save.png)
   
-  or
+  **or**
+  
   You can clone the project with git bash.To clone the project using git bash first open the git bash and write the following code
   ```
   git clone https://github.com/AdeetyaU/Face-Recognition-Attendance-Program.git
