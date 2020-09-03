@@ -1,12 +1,13 @@
-# Face-Recognition-Attendance-Program
+# Face-Recognition-Attendance-Program :memo:
+![Face recog](https://github.com/AdeetyaU/Face-Recognition-Attendance-Program/blob/master/README%20Images/face-recog.jpg)
 
 ## Features :clipboard:
 ---------------------------
-* Check Camera
+* Check Camera :camera:
 * Capture Faces
 * Train Faces
 * Recognize Faces & Attendance
-* Automatic Email
+* Automatic Email :email:
 
 ## Tech Used :computer:
 ---------------------------
@@ -99,6 +100,10 @@ After creating the enviroment and installing the packages, open the terminal to 
 ```
 py main.py
 ```
-![main py](https://github.com/AdeetyaU/Face-Recognition-Attendance-Program/blob/master/README%20Images/pymain.gif)
+![main py](https://github.com/AdeetyaU/Face-Recognition-Attendance-Program/blob/master/README%20Images/pymainpy.gif)
 
 ### And your program is good to go!
+
+#### Credits :gift_heart:
+---------------------------
+Thanks to [KMHMubin](https://github.com/kmhmubin/) for the initial source code ! This is an updated version of the FRAS project, with a stricter (and more accurate) face detection algorithm and multiple glitch fixes!
