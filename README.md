@@ -109,6 +109,57 @@ py main.py
 
 ### And your program is good to go!
 
+## Frequently Asked Question
+
+###### 1. How do I close the camera window?
+
+*Answer: Press the key **q** on your keyboard*
+
+
+###### 2. Does it work with Linux/Mac ?
+
+*Answer: Yes it does.*
+
+
+###### 3. I can't install the required dependencies
+
+*Answer: Try searching for unofficial dependencies and download them, then run CMD on that. Although this scenario is quite rare.*
+
+
+###### 4. Where is the attendance saved?
+
+*Answer: It is saved in the Attendance folder in a CSV format, you can open it using Excel*
+
+
+###### 5. Where is terminal in PyCharm?
+
+*Answer: Check the lower left of your screen. Click on the Terminal button to open it up.*
+
+
+###### 6. Why does it take time to load?
+
+*Answer: This is written in python, therefore compiling it will take sometime depending on your computer's CPU speed!*
+
+
+###### 7. How do I open the project once I unzip it?
+
+*Answer: In PyCharm, click on File > Open Project > select Face-Recognition-Attendance-Program*
+
+
+###### 8. Is a virtual environment necessary?
+
+*Answer: No, however I highly reccomend it.*
+
+
+###### 9. Do I have to use Pycharm, can I use any other IDE?
+
+*Answer: No it is not necessary, you can use VSCODE; however, I highly suggest using PyCharm for best results.*
+
+
+###### 10. How can I suggest edits to the code? 
+
+*Answer: Make a pull request or raise an issue, and I'll get back to you as soon as possible!* :smiley:
+
 #### Credits :gift_heart:
 ---------------------------
 Thanks to [KMHMubin](https://github.com/kmhmubin/) for the initial source code ! This is an updated version of the FRAS project, with a stricter (and more accurate) face detection algorithm and multiple glitch fixes!
