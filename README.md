@@ -43,9 +43,8 @@ Software Used -
   or
   You can clone the project with git bash.To clone the project using git bash first open the git bash and write the following code
   ```
-  git clone https://github.com/kmhmubin/Face-Recognition-Attendance-System.git
+  git clone https://github.com/AdeetyaU/Face-Recognition-Attendance-Program.git
   ```
-  demo 
 
 #### 3. Now open this project on PyCharm and open terminal. Then enter the following commands:
 ---------------------------
