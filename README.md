@@ -168,3 +168,7 @@ py main.py
 #### Credits :gift_heart:
 ---------------------------
 Thanks to [KMHMubin](https://github.com/kmhmubin/) for the initial source code ! This is an updated version of the FRAS project, with a stricter (and more accurate) face detection algorithm and multiple glitch fixes!
+
+## Next Update:
+---------------------------
+Adding a GUI to make it look better :astonished:
