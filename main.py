@@ -13,7 +13,7 @@ def title_bar():
     # title of the program
 
     print("\t**********************************************")
-    print("\t***** Face Recognition Attendance System *****")
+    print("\t**** Face Recognition Attendance Program *****")
     print("\t**********************************************")
 
 
