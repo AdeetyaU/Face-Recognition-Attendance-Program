@@ -1,43 +1,18 @@
-# Face Recognition Attandance System
-
-### Recognize The faces And Take Automatic Attandance. :sparkles:
-
-![Face Recognition Logo](https://github.com/kmhmubin/Face-Recognition-Attendance-System/blob/master/Document%20Metarial/Project%20demo%20images/Face-Recognition-Attendance-System-Logo.jpg)
-
-
-![GitHub](https://img.shields.io/github/license/kmhmubin/Face-Recognition-Attendance-System)
-
-## Motivation :astonished:
-----------------------------
-We seek to provide a valuable attendance service for both teachers and students. Reduce manual process errors by provide automated and a reliable attendance system uses face recognition technology.
+# Face-Recognition-Attendance-Program :memo:
+![Face recog](https://github.com/AdeetyaU/Face-Recognition-Attendance-Program/blob/master/README%20Images/face-recog.jpg)
 
 ## Features :clipboard:
 ---------------------------
-* Check Camera
+* Check Camera :camera:
 * Capture Faces
 * Train Faces
 * Recognize Faces & Attendance
-* Automatic Email
-
-## Screenshots :camera:
------------------------------------
-### Command Line Interface
-
-![Command Line Interdace](https://github.com/kmhmubin/Face-Recognition-Attendance-System/blob/master/Document%20Metarial/Project%20demo%20images/CODE%20INTERFACE.png)
-
-### Checking Camera
-
-![Checking Camera](https://github.com/kmhmubin/Face-Recognition-Attendance-System/blob/master/Document%20Metarial/Project%20demo%20images/Program%20working.jpg)
-
-### Automail
-
-![Automail](https://github.com/kmhmubin/Face-Recognition-Attendance-System/blob/master/Document%20Metarial/Project%20demo%20images/automail.jpg)
-
+* Automatic Email :email:
 
 ## Tech Used :computer:
---------------------------
-Build With -
-* Python 3.7
+---------------------------
+Build With - 
+* Python 3.8
 
 Module Used -
 
@@ -56,50 +31,57 @@ Face Recognition Algorithms -
 * LBPH (Local Binary Pattern Histogram)
 
 Software Used -
-* Pycharm 2019.2
-* VS CODE
-* Git
+* Pycharm 2020.2
 
-## Installation :key:
------------------------------------
+## How to run :question:
+---------------------------
+#### 1. Install PyCharm 2020.2 from [here](https://www.jetbrains.com/pycharm/download/) : https://www.jetbrains.com/pycharm/download/
 
-#### Download or Clone the project
+![venv](https://github.com/AdeetyaU/Face-Recognition-Attendance-Program/blob/master/README%20Images/pycharm.png)
 
-First Download or Clone the Project on Your Local Machine.To download the project from github press **Download Zip**
+#### 2. After installation:
+---------------------------
+  ##### Download or Clone the project:
+  
+  First Download or Clone the Project on Your Local Machine.To download the project from github press **_Download Zip_**
+  
+  ![save file](https://github.com/AdeetyaU/Face-Recognition-Attendance-Program/blob/master/README%20Images/git%20save.png)
+  
+  **or**
+  
+  You can clone the project with git bash.To clone the project using git bash first open the git bash and write the following code
+  ```
+  git clone https://github.com/AdeetyaU/Face-Recognition-Attendance-Program.git
+  ```
 
-![Download Zip](https://github.com/kmhmubin/Face-Recognition-Attendance-System/blob/master/Document%20Metarial/Project%20demo%20images/download%20zip.png)
-
-or
-
-You can clone the project with git bash.To clone the project using git bash first open the git bash and write the following code
-```
-git clone https://github.com/kmhmubin/Face-Recognition-Attendance-System.git
-```
-demo
-
-![Git clone](https://github.com/kmhmubin/Face-Recognition-Attendance-System/blob/master/Document%20Metarial/Project%20demo%20images/git%20clone_edit_0.gif)
-
-After download, Open the project using **Pycharm or VSCODE**. Then we have to create an python enviroment to run the program.
-
-#### create enviroment
-First open the terminal or command line in the IDE.Then write the following code.
+#### 3. Now open this project on PyCharm and open terminal. Then enter the following commands:
+---------------------------
 ```
 python -m venv env
 ```
 Then activate the enviroment using the code below for windows.
+
 ```
 .\env\Scripts\activate
 ```
-[ *Notice:*
-If your pc don't have virtual enviroment or pip install the follow this link.
-[How to create Virtual Enviroment](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) ]
+![venv](https://github.com/AdeetyaU/Face-Recognition-Attendance-Program/blob/master/README%20Images/VENV.gif)
 
-#### Installing the packages
---------------------------------------------------
+[ PS: If you have any issues with your venv, check this article then: (https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/) ]
 
-After creating the enviroment on your project let's install the necessary packages.
+#### 4. Installing the packages
+---------------------------
+After creating the enviroment on your project let's install the necessary packages. 
 
-![pip isntall demo](https://github.com/kmhmubin/Face-Recognition-Attendance-System/blob/master/Document%20Metarial/Project%20demo%20images/pip%20install_edit_0.gif)
+You simply need to run the following command in terminal, and it automatically installs the required packages for you:
+
+```
+py setup.py
+```
+![set up.py](https://github.com/AdeetyaU/Face-Recognition-Attendance-Program/blob/master/README%20Images/setuppy.gif)
+
+**If you get an error message, you need to manually install the package:**
+
+![pip install demo](https://github.com/AdeetyaU/Face-Recognition-Attendance-Program/blob/master/README%20Images/Pip%20install.gif)
 
 To install those package open the terminal or command line and paste the code from below
 
@@ -124,49 +106,65 @@ pip install python-csv
 ```
 pip install yagmail
 ```
-
-[ **Notice: During the package installization, sometime it shows some error, to avoid those error you can install those packages as admin. ]
-
-## Test Run :bicyclist:
------------------------
-After creating the enviroment and installing the packages, open the IDE terminal/command line to run the program. Using the code below.
-
+After creating the enviroment and installing the packages, open the terminal to run the program. Using the code below.
 ```
 py main.py
 ```
-Here is a demo to run the program. I'm Using the Pycharm IDE in my demo.
+![main py](https://github.com/AdeetyaU/Face-Recognition-Attendance-Program/blob/master/README%20Images/pymainpy.gif)
 
-![Test Run](https://github.com/kmhmubin/Face-Recognition-Attendance-System/blob/master/Document%20Metarial/Project%20demo%20images/code%20demo_edit_0.gif)
+### And your program is good to go!
 
-## How To Use? :pencil:
-----------------------
-If you want to use it just follow the steps below.
+## Frequently Asked Question
 
-1. First download or clone the project
-2. Import the project to your favourit IDE
-3. Create an python enviroment
-4. Install all the packages
-5. Change the mail information
-6. Run the project using the command line or your IDE Run Button
+###### 1. How do I close the camera window?
 
-## Known Bugs :bug:
-------------------------------
-This project have some bugs.
+*Answer: Press the key **q** on your keyboard*
 
-* Student Details: In student details folder the **StudentDetails.csv** file don't have ID & name column.This problem show when the program run first time and create the **StudentDetails.csv** file automatically. To soleve the problelm just open the file and add *ID & Name Column* in the file and save it.
 
-* Auto Attachment: This is not a problem actually. The problem is before sent auto mail we have to manually change the file name. I tried to automate the attachment but i faild.
+###### 2. Does it work with Linux/Mac ?
 
-## Contribute :heart:
---------------------------------------
-If you want to contribute in this project feel free to do that. A [contribution guideline](https://github.com/kmhmubin/Face-Recognition-Attendance-System/blob/master/Contributing%20Guidelines.md) will be a big help.
+*Answer: Yes it does.*
 
-Thanks you [Ciroiriarte](https://github.com/ciroiriarte) for contributing.
 
-## Credits :sparkling_heart:
---------------------------------
-Thanks to [Farhat Tasnim](https://github.com/farhattasnim) work with me.
+###### 3. I can't install the required dependencies
 
-## Licence :scroll:
----------------------------------
-MIT © [K.M.H. Mubin](https://github.com/kmhmubin)
+*Answer: Try searching for unofficial dependencies and download them, then run CMD on that. Although this scenario is quite rare.*
+
+
+###### 4. Where is the attendance saved?
+
+*Answer: It is saved in the Attendance folder in a CSV format, you can open it using Excel*
+
+
+###### 5. Where is terminal in PyCharm?
+
+*Answer: Check the lower left of your screen. Click on the Terminal button to open it up.*
+
+
+###### 6. Why does it take time to load?
+
+*Answer: This is written in python, therefore compiling it will take sometime depending on your computer's CPU speed!*
+
+
+###### 7. How do I open the project once I unzip it?
+
+*Answer: In PyCharm, click on File > Open Project > select Face-Recognition-Attendance-Program*
+
+
+###### 8. Is a virtual environment necessary?
+
+*Answer: No, however I highly reccomend it.*
+
+
+###### 9. Do I have to use Pycharm, can I use any other IDE?
+
+*Answer: No it is not necessary, you can use VSCODE; however, I highly suggest using PyCharm for best results.*
+
+
+###### 10. How can I suggest edits to the code? 
+
+*Answer: Make a pull request or raise an issue, and I'll get back to you as soon as possible!* :smiley:
+
+#### Credits :gift_heart:
+---------------------------
+Thanks to [KMHMubin](https://github.com/kmhmubin/) for the initial source code ! This is an updated version of the FRAS project, with a stricter (and more accurate) face detection algorithm and multiple glitch fixes!
