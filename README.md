@@ -1,5 +1,8 @@
 # Face-Recognition-Attendance-Program :memo:
 ![Face recog](https://github.com/AdeetyaU/Face-Recognition-Attendance-Program/blob/master/README%20Images/face-recog.jpg)
+---------------------------
+##  For Graphical User Interface Version, click [here](https://github.com/AdeetyaU/Face-Recognition-GUI) (It runs slower than this, but it is much easier to use and looks far better :smiley:)
+---------------------------
 
 ## Features :clipboard:
 ---------------------------
