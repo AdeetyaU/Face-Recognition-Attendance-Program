@@ -1,4 +1,4 @@
-mport yagmail
+import yagmail
 import os
 import datetime
 date = datetime.date.today().strftime("%B %d, %Y")
